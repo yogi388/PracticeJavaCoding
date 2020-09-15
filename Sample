@@ -1,0 +1,5 @@
+public class SamplePrint{
+public static void manin(String[] args){
+System.out.println("Hello test");
+ }
+}
